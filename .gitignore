@@ -1,0 +1,23 @@
+﻿# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+
+# Environment secrets
+.env
+backend/.env
+frontend/.env
+
+# Development backups
+*_backup.json
+backend_submission_backup/
+frontend/src_submission_backup/
+
+# OS
+.DS_Store
+Thumbs.db

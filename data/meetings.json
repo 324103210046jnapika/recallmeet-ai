@@ -1,0 +1,117 @@
+﻿[
+    {
+        "id":  "3f245926",
+        "client":  "Acme Corp",
+        "contact":  "Sarah Chen, CTO",
+        "date":  "2026-09-12",
+        "title":  "System Planning \u0026 Security Sync",
+        "meeting_notes":  "Discussed analytics dashboard requirements, AWS deployment, six-week delivery timeline, and security requirements. Sarah confirmed AWS as the preferred deployment platform and emphasized that RBAC is mandatory. The CTO requested a detailed security review and security plan.",
+        "decisions":  [
+                          "AWS is the preferred deployment platform",
+                          "Delivery target is six weeks",
+                          "Role-based access control is required"
+                      ],
+        "concerns":  [
+                         "CTO requested a detailed security review",
+                         "RBAC requirements need to be included"
+                     ],
+        "commitments":  [
+                            "Prepare architecture proposal",
+                            "Prepare security plan"
+                        ],
+        "follow_ups":  [
+                           "Schedule technical discussion",
+                           "Share security plan before the next review"
+                       ],
+        "retained_memory_id":  "fallback_3f245926",
+        "hindsight_status":  "retained_resilient_store",
+        "memory_provider":  "local_fallback",
+        "memory_info":  {
+                            "provider":  "local_fallback",
+                            "operations":  [
+                                               "retain"
+                                           ],
+                            "bank_id":  "recallmeet-demo",
+                            "memory_count":  1,
+                            "connected":  false,
+                            "message":  "Retained in development fallback layer (Hindsight server offline)"
+                        },
+        "created_at":  "2026-09-29T14:26:51.696695"
+    },
+    {
+        "id":  "31eef616",
+        "client":  "Acme Corp",
+        "contact":  "Sarah Chen, CTO",
+        "date":  "2026-09-23",
+        "title":  "Security Sign-off Meeting",
+        "meeting_notes":  "Sarah confirmed that the security architecture is the final blocker before production approval. She wants RBAC demonstrated and requested the final security documentation before sign-off.",
+        "decisions":  [
+                          "RBAC demonstration required",
+                          "Security documentation required before sign-off"
+                      ],
+        "concerns":  [
+                         "Production approval depends on security review"
+                     ],
+        "commitments":  [
+                            "Deliver final RBAC demonstration",
+                            "Share final security documentation"
+                        ],
+        "follow_ups":  [
+                           "Schedule security sign-off",
+                           "Send security documentation"
+                       ],
+        "retained_memory_id":  "fallback_31eef616",
+        "hindsight_status":  "retained_resilient_store",
+        "memory_provider":  "local_fallback",
+        "memory_info":  {
+                            "provider":  "local_fallback",
+                            "operations":  [
+                                               "retain"
+                                           ],
+                            "bank_id":  "recallmeet-demo",
+                            "memory_count":  1,
+                            "connected":  false,
+                            "message":  "Retained in development fallback layer (Hindsight server offline)"
+                        },
+        "created_at":  "2026-09-29T14:50:37.755359"
+    },
+    {
+        "id":  "74024089",
+        "client":  "Acme Corp",
+        "contact":  "Sarah Chen, CTO",
+        "date":  "2026-09-29",
+        "title":  "Security Sign-off Planning",
+        "meeting_notes":  "Sarah confirmed that AWS remains the preferred deployment platform. The six-week delivery target is still important. The main blocker is security approval. She reiterated that role-based access control is mandatory and requested the final security architecture and documentation before sign-off.",
+        "decisions":  [
+                          "AWS remains the preferred deployment platform",
+                          "Six-week delivery target remains important",
+                          "RBAC is mandatory for production"
+                      ],
+        "concerns":  [
+                         "Security approval is still pending",
+                         "Final security architecture must be reviewed"
+                     ],
+        "commitments":  [
+                            "Deliver final security architecture",
+                            "Provide security documentation"
+                        ],
+        "follow_ups":  [
+                           "Schedule security sign-off",
+                           "Share final security documentation"
+                       ],
+        "retained_memory_id":  "fallback_74024089",
+        "hindsight_status":  "retained_resilient_store",
+        "memory_provider":  "local_fallback",
+        "memory_info":  {
+                            "provider":  "local_fallback",
+                            "operations":  [
+                                               "retain"
+                                           ],
+                            "bank_id":  "recallmeet-demo",
+                            "memory_count":  1,
+                            "connected":  false,
+                            "message":  "Retained in development fallback layer (Hindsight server offline)"
+                        },
+        "created_at":  "2026-09-29T15:15:11.181853"
+    }
+]
